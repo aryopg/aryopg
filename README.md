@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Aryo Pradipta Gema (He/Him). I am currently a PhD student in Biomedical AI at the University of Edinburgh under the supervision of Dr. Beatrice Alex, Dr. Pasquale Minervini, and Dr. Luke Daines. My research interests are in the intersection between NLP and the clinical domain.
+You can find more information about me and my work on (my personal website)[https://aryopg.github.io]
+
 <!--
 **aryopg/aryopg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
